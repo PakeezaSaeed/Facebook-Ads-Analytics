@@ -19,9 +19,26 @@ The dashboard is subtly partitioned into 3 clearly defined categories of KPIs fo
    - Trend lines comparing costs and cost per click
 
 2. **Performance:**
-   - Average employee satisfaction score
-   - Performance metrics (Exceeds, Fully Meets, Needs Improvement, PIP)
+   - Clicks
+   - Reach
+   - Impressions
+   - Click Through Rate (CTR)
+   - Comparision with previous year using DAX and conditional formatting
+   - Trend lines comparing Impressiosn and Click Through Rate
 
-3. **Training Cost Analysis:**
-   - Training cost trends over time
-   - Internal vs. external training comparison
+3. **Link Click:**
+   - Number of link clicks recieved
+   - Cost per link click (CPC)
+   - Click through rate for link clicks (CTR)
+   - Comparision with previous year using DAX and conditional formatting
+   - Trend lines comparing link clicks and click through rate for link clicks
+  
+4. **Ads Table:**
+   - A table of Campaign names and ad names 
+   - Free text input search box to easily find campaigns of interest. 
+
+ ## 🖼 Dashboard Preview
+ ![image](https://github.com/user-attachments/assets/cea0292e-43a9-4ad6-a495-026888d68a10)
+
+![image](https://github.com/user-attachments/assets/222964f6-8aaa-402c-ba55-0b52622a2e70)
+
